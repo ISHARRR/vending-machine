@@ -1,5 +1,4 @@
-# vending-machine-ISHARRR
-vending-machine-ISHARRR created by GitHub Classroom
+# vending-machine
 
 For this project, I took an agile approach I followed the CRUD methodology
 
