@@ -1,0 +1,16 @@
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/service/ItemDataValidationException.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/controller/VendingMachineController.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/service/VendingMachineService.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/dao/VendingMachineDao.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/dao/ItemAuditDao.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/models/Item.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/service/ItemDuplicateIdException.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/models/CurrentAccount.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/view/UserIO.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/App.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/dao/VendingMachineDaoImpl.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/service/ItemServiceLayerImpl.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/view/UserIOConsoleImpl.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/view/VendingMachineView.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/dao/ItemPersistenceException.java
+/Users/ishar/Desktop/mThree/Programming/WeekThree/VendingMachine/src/main/java/com/mthree/vendingmachine/dao/ItemAuditDaoFileImpl.java
